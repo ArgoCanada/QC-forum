@@ -1,5 +1,5 @@
 ---
-name: Core data DMQC review
+name: BGC data DMQC review
 about: Request feedback on DMQC of float data
 title: 'DMQC Review - BGC ([PARAMETER]) - [WMO]'
 labels: 'dmqc, bgc'
