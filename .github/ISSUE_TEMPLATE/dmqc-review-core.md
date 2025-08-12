@@ -2,7 +2,7 @@
 name: Core data DMQC review
 about: Request feedback on DMQC of float data
 title: 'DMQC Review - Core - [WMO]'
-labels: 'dmqc', 'core'
+labels: 'dmqc, core'
 assignees: QiWang-DFO
 
 ---
